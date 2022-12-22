@@ -1,0 +1,25 @@
+# m n
+3 8
+# p
+3 3 2
+# o (last one for m+1)
+1 1 2 0
+# d (last one for m+1)
+3 4 4 5
+# q
+1 1 1 1 1 1 1 1
+# E (first line is the size of E)
+13
+0 1
+1 2
+0 3
+1 4
+2 5
+3 4
+4 5
+3 6
+4 7
+5 8
+6 7
+7 8
+3 9
