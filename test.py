@@ -1,6 +1,5 @@
 import gurobipy as gp
 
-    with open("small.dat", 'r') as f:
 
 with open("small.dat", 'r') as f:
     lines = [line.rstrip() for line in f.readlines()]
